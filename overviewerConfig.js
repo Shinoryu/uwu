@@ -10,18 +10,18 @@ var overviewerConfig = {
                 70
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1554412348, 
+            "last_rendertime": 1554412775, 
             "name": "Overviewer Render (lighting)", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 6, 
+            "zoomLevels": 7, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "world", 
-            "maxZoom": 6, 
+            "maxZoom": 7, 
             "path": "world-lighting", 
             "showlocationmarker": true
         }
@@ -66,6 +66,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1554412440"
+        "cacheTag": "1554412904"
     }
 };
