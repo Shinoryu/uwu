@@ -10,18 +10,18 @@ var overviewerConfig = {
                 203
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1554612495, 
+            "last_rendertime": 1554616593, 
             "name": "Normal render of uwu", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 7, 
+            "zoomLevels": 8, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "uwu", 
-            "maxZoom": 7, 
+            "maxZoom": 8, 
             "path": "normal", 
             "showlocationmarker": true
         }
@@ -66,6 +66,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1554612632"
+        "cacheTag": "1554616894"
     }
 };
