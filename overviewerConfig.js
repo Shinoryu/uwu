@@ -5,45 +5,45 @@ var overviewerConfig = {
     "tilesets": [
         {
             "spawn": [
-                176, 
+                160, 
                 64, 
-                70
+                203
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1554604517, 
+            "last_rendertime": 1554611094, 
             "name": "Normal render of uwu", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 7, 
+            "zoomLevels": 6, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "uwu", 
-            "maxZoom": 7, 
+            "maxZoom": 6, 
             "path": "normal", 
             "showlocationmarker": true
         }, 
         {
             "spawn": [
-                176, 
+                160, 
                 64, 
-                70
+                203
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1554604517, 
+            "last_rendertime": 1554611094, 
             "name": "Cave render of uwu", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 7, 
+            "zoomLevels": 6, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "uwu", 
-            "maxZoom": 7, 
+            "maxZoom": 6, 
             "path": "cave", 
             "showlocationmarker": true
         }
@@ -88,6 +88,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1554604824"
+        "cacheTag": "1554611211"
     }
 };
