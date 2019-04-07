@@ -15,13 +15,15 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
+            "render_in_progress": true, 
+            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
-            "zoomLevels": 9, 
+            "zoomLevels": 11, 
             "base": "", 
             "imgextension": "png", 
             "defaultZoom": 1, 
             "world": "uwu", 
-            "maxZoom": 9, 
+            "maxZoom": 11, 
             "path": "normal", 
             "showlocationmarker": true
         }
@@ -66,6 +68,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1554626612"
+        "cacheTag": "1554627927"
     }
 };
