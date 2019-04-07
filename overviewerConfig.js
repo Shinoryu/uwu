@@ -10,13 +10,11 @@ var overviewerConfig = {
                 203
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1554625121, 
+            "last_rendertime": 1554629936, 
             "name": "Normal render of uwu", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "render_in_progress": true, 
-            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 11, 
             "base": "", 
@@ -68,6 +66,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1554627927"
+        "cacheTag": "1554630043"
     }
 };
